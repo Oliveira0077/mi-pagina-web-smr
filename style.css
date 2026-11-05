@@ -1,0 +1,81 @@
+body {
+    background-color: #dddddd;
+    font-family: Arial, sans-serif;
+}
+
+/* Tarjeta básica centrada */
+.tarjeta {
+    width: 300px;
+    background-color: white;
+    margin: 20px auto;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+/* Cabecera azul */
+.arriba {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Foto cuadrada o redonda simple */
+.foto {
+    width: 70px;
+    height: 70px;
+}
+
+.arriba h2 {
+    margin: 5px 0;
+}
+
+.arriba p {
+    margin: 0;
+}
+
+/* Contenido de abajo */
+.abajo {
+    padding: 10px;
+}
+
+/* Etiquetas */
+.tags {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.tags span {
+    background-color: lightgray;
+    padding: 3px 6px;
+    margin: 2px;
+    display: inline-block;
+}
+
+/* Caja de contacto básica con borde simple */
+.contacto {
+    background-color: lightyellow;
+    border: 1px solid orange;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.contacto p {
+    margin: 2px 0;
+}
+
+/* Botón normal */
+button {
+    background-color: blue;
+    color: white;
+    width: 100%;
+    padding: 5px;
+}
+
+/* Pie de página */
+.pie {
+    text-align: center;
+    font-size: 10px;
+    color: gray;
+    margin-top: 10px;
+}
